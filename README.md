@@ -1,10 +1,10 @@
-# 🎁 Amigo Secreto
+# Amigo Secreto
 
 Este es un proyecto divertido de **Amigo Secreto** creado con **HTML, CSS y JavaScript**.
 
 ---
 
-## 📝 Descripción
+## Descripción
 
 La aplicación permite:  
 - Agregar nombres de tus amigos.  
@@ -14,7 +14,7 @@ La aplicación permite:
 
 ---
 
-## 🚀 Cómo usar
+## Cómo usar
 
 1. Abre el archivo `index.html` en tu navegador.  
 2. Escribe el nombre de un amigo en el campo de texto y haz clic en **Añadir**.  
@@ -24,7 +24,7 @@ La aplicación permite:
 
 ---
 
-## 🛠 Tecnologías usadas
+## Tecnologías usadas
 
 - **HTML** para la estructura.  
 - **CSS** para los estilos y diseño.  
